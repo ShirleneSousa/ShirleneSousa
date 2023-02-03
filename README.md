@@ -1,7 +1,7 @@
 ### Olá pessoas, eu sou a Shirlene 👋
 
 - 🔭 Atualmente estou cursando Ciência da Computação
-- 🌱 Aprendendo Python
+- 🌱 Python, C, Javascript, Html, Css
 - 😄 Pronomes: ela/dela
 - ⚡ Tenho curiosidade e disposição para aprender outras linguagens de programação
 
